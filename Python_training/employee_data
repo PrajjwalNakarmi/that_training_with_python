@@ -2,7 +2,7 @@
   {
     "employee_id": 1,
     "name": "Prajjwal",
-    "designation": "dasdasda",
+    "designation": "Developer",
     "company_mail": "prajjwal@gmail.com",
     "contact": "9822334455"
   },
@@ -12,5 +12,12 @@
     "designation": "Devops",
     "company_mail": "sashank@skillrank.io",
     "contact": "9833442299"
+  },
+  {
+    "employee_id": 4,
+    "name": "Alice Updated",
+    "designation": "Senior Engineer",
+    "company_mail": "alice.update@gmail.com",
+    "contact": "9999999999"
   }
 ]
