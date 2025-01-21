@@ -1,0 +1,16 @@
+[
+  {
+    "employee_id": 1,
+    "name": "Prajjwal",
+    "designation": "dasdasda",
+    "company_mail": "prajjwal@gmail.com",
+    "contact": "9822334455"
+  },
+  {
+    "employee_id": 2,
+    "name": "Sashank",
+    "designation": "Devops",
+    "company_mail": "sashank@skillrank.io",
+    "contact": "9833442299"
+  }
+]
