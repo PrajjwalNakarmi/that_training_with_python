@@ -1,23 +1,9 @@
 [
   {
-    "employee_id": 1,
-    "name": "Prajjwal",
+    "employee_id": 101,
+    "name": "John Doe",
     "designation": "Developer",
-    "company_mail": "prajjwal@gmail.com",
-    "contact": "9822334455"
-  },
-  {
-    "employee_id": 2,
-    "name": "Sashank",
-    "designation": "Devops",
-    "company_mail": "sashank@skillrank.io",
-    "contact": "9833442299"
-  },
-  {
-    "employee_id": 4,
-    "name": "Alice Updated",
-    "designation": "Senior Engineer",
-    "company_mail": "alice.update@gmail.com",
-    "contact": "9999999999"
+    "company_mail": "john.doe@example.com",
+    "contact": "1234567890"
   }
 ]
